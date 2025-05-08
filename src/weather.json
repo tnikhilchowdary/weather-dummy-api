@@ -1,0 +1,53 @@
+{
+    "New York": {
+      "name": "New York",
+      "main": { "temp": 22, "humidity": 65 },
+      "weather": [{ "main": "Cloudy" }]
+    },
+    "Los Angeles": {
+      "name": "Los Angeles",
+      "main": { "temp": 28, "humidity": 40 },
+      "weather": [{ "main": "Sunny" }]
+    },
+    "Chicago": {
+      "name": "Chicago",
+      "main": { "temp": 18, "humidity": 70 },
+      "weather": [{ "main": "Rain" }]
+    },
+    "Houston": {
+      "name": "Houston",
+      "main": { "temp": 30, "humidity": 75 },
+      "weather": [{ "main": "Humid" }]
+    },
+    "Phoenix": {
+      "name": "Phoenix",
+      "main": { "temp": 35, "humidity": 20 },
+      "weather": [{ "main": "Sunny" }]
+    },
+    "Philadelphia": {
+      "name": "Philadelphia",
+      "main": { "temp": 21, "humidity": 60 },
+      "weather": [{ "main": "Clear" }]
+    },
+    "San Antonio": {
+      "name": "San Antonio",
+      "main": { "temp": 32, "humidity": 50 },
+      "weather": [{ "main": "Hot" }]
+    },
+    "San Diego": {
+      "name": "San Diego",
+      "main": { "temp": 24, "humidity": 55 },
+      "weather": [{ "main": "Breezy" }]
+    },
+    "Dallas": {
+      "name": "Dallas",
+      "main": { "temp": 29, "humidity": 65 },
+      "weather": [{ "main": "Sunny" }]
+    },
+    "San Jose": {
+      "name": "San Jose",
+      "main": { "temp": 25, "humidity": 45 },
+      "weather": [{ "main": "Clear" }]
+    }
+  }
+  
